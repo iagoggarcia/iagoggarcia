@@ -1,4 +1,5 @@
-## Hi there 👋
+## 👋
+Soy Iago, estudiante de ingeniería informática en la USC. A este perfil subiré archivos, ejercicios y apuntes que vaya haciendo a medida que avanzo en la carrera.
 
 <!--
 **iagoggarcia/iagoggarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
