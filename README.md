@@ -1,4 +1,4 @@
-## 👋
+## Hola👋
 Soy Iago, estudiante de ingeniería informática en la USC. A este perfil subiré archivos, ejercicios y apuntes que vaya haciendo a medida que avanzo en la carrera.
 
 <!--
