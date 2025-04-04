@@ -3,7 +3,7 @@ Soy Iago, estudiante de ingeniería informática en la USC. A este perfil subir�
 
 ### Lista de asignaturas (si ✅, hay archivos, si ❌ no subí nada)
 
-1. ### 1º
+- ### 1º
     - ### Primer cuatrimestre
         - Sistemas Digitales → ✅
         - Álgebra → ✅
