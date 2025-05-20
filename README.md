@@ -11,7 +11,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iagoggarcia&show_icons=true&theme=dracula" height="150" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=iagoggarcia&theme=dracula&row=1&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
+<img src="https://github-profile-trophy.vercel.app?username=iagoggarcia&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
 </div>
 
 ###
