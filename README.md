@@ -68,18 +68,6 @@
 
 ###
 
-<h3 align="left">🎵 Some music</h3>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/oqat83w8be6zc6icegujyy89k">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=oqat83w8be6zc6icegujyy89k&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <img src="https://raw.githubusercontent.com/iagoggarcia/iagoggarcia/output/snake.svg" alt="Snake animation" />
 
 ###
