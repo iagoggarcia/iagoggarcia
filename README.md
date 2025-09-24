@@ -5,7 +5,7 @@
 <p align="center">I'm 20 years old and the purpose of this profile is to be an storage or repo where i post and save my advances, exercises and projects as I advance in my degree. Surely there are things wrong so it is not necessary to take everything as perfect.</p>
 
 - [Ejercicios de 1º](https://github.com/iagoggarcia/Primero-ejs-)
-- - [Ejercicios de 2º](https://github.com/iagoggarcia/Segundo-ejs-)
+- [Ejercicios de 2º](https://github.com/iagoggarcia/Segundo-ejs-)
 
 ###
 
