@@ -1,12 +1,10 @@
-<h2 align="left">Hi 👋! My name is Iago and I'm a computer engineering student from Santiago de Compostela, Spain</h2>
+<h2 align="left">Hola 👋! Soy Iago, un estudiante de ingeniería informática de la USC</h2>
 
 ###
 
-<p align="center">I'm 20 years old and the purpose of this profile is to be an storage or repo where i post and save my advances, exercises and projects as I advance in my degree. Surely there are things wrong so it is not necessary to take everything as perfect.</p>
+<p align="center">Tengo 21 años y el uso que le daré a github será principalmente personal, simplemente para almacenamiento y actualización de trabajos y prácticas de mi carrera universitaria, así como proyectos personales que iré desarrollando a lo largo del tiempo como estudiante. </p>
 
-- [Ejercicios de 1º](https://github.com/iagoggarcia/Primero-ejs-)
-- [Ejercicios de 2º](https://github.com/iagoggarcia/Segundo-ejs-)
-
+<p>Los repositorios relacionados con la carrera universitaria los tendré privados, pero los que realice de forma personal, tendrán sus respectivos links aquí abajo (por ahora no habrá nada): </p>
 ###
 
 <div align="center">
@@ -17,7 +15,7 @@
 
 ###
 
-<h3 align="left">Languages I already worked with</h3>
+<h3 align="left">Lenguajes que ya he usado</h3>
 
 ###
 
@@ -45,7 +43,7 @@
 
 ###
 
-<h3 align="left">OS</h3>
+<h3 align="left">Sistemas Operativos</h3>
 
 ###
 
@@ -57,7 +55,7 @@
 
 ###
 
-<h3 align="left">📱 Social media</h3>
+<h3 align="left">📱 Redes sociales</h3>
 
 ###
 
