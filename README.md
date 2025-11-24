@@ -5,15 +5,6 @@
 <p align="center">Tengo 21 años y el uso que le daré a github será principalmente personal, simplemente para almacenamiento y actualización de trabajos y prácticas de mi carrera universitaria, así como proyectos personales que iré desarrollando a lo largo del tiempo como estudiante. </p>
 
 <p>Los repositorios relacionados con la carrera universitaria los tendré privados, pero los que realice de forma personal, tendrán sus respectivos links aquí abajo (por ahora no habrá nada): </p>
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iagoggarcia&show_icons=true&theme=dracula" height="150" />
-
-<img src="https://github-profile-trophy.vercel.app?username=iagoggarcia&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
-</div>
-
-###
 
 <h3 align="left">Lenguajes que ya he usado</h3>
 
