@@ -2,27 +2,24 @@
 
 ###
 
-<p align="center">Tengo 21 años y el uso que le daré a github será principalmente personal, simplemente para almacenamiento y actualización de trabajos y prácticas de mi carrera universitaria, así como proyectos personales que iré desarrollando a lo largo del tiempo como estudiante. </p>
+<p align="left">Tengo 21 años y el uso que le daré a github será principalmente personal, simplemente para almacenamiento y actualización de trabajos y prácticas de mi carrera universitaria, así como proyectos personales que iré desarrollando a lo largo del tiempo como estudiante. Los repositorios relacionados con la carrera los tendré privados, pero los que realice de forma personal, tendrán sus respectivos links.</p>
 
-<p>Los repositorios relacionados con la carrera universitaria los tendré privados, pero los que realice de forma personal, tendrán sus respectivos links aquí abajo (por ahora no habrá nada): </p>
+### 🛠️ Proyectos Personales
 
-<h3 align="left">Lenguajes que ya he usado</h3>
+* 🚀 [**Impostor CG**](https://github.com/iagoggarcia/nocheDeRisas)
 
-###
+### 🖥️ Tecnologías que he usado
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
-###
-
-<h3 align="left">IDEs</h3>
+### IDEs
 
 ###
 
@@ -34,7 +31,7 @@
 
 ###
 
-<h3 align="left">Sistemas Operativos</h3>
+### Sistemas Operativos
 
 ###
 
@@ -46,7 +43,7 @@
 
 ###
 
-<h3 align="left">📱 Redes sociales</h3>
+### 📱 Redes sociales
 
 ###
 
