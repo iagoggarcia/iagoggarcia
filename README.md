@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">Tengo 21 años y el uso que le daré a github será principalmente personal, simplemente para almacenamiento y actualización de trabajos y prácticas de mi carrera universitaria, así como proyectos personales que iré desarrollando a lo largo del tiempo como estudiante. Los repositorios relacionados con la carrera los tendré privados, pero los que realice de forma personal, tendrán sus respectivos links.</p>
+<p align="center">Tengo 21 años y el uso que le daré a github será principalmente personal, simplemente para almacenamiento y actualización de trabajos y prácticas de mi carrera universitaria, así como proyectos personales que iré desarrollando a lo largo del tiempo como estudiante. Los repositorios relacionados con la carrera los tendré privados, pero los que realice de forma personal, tendrán sus respectivos links.</p>
+
+* [**Portfolio**](https://iagoggarcia.github.io/)
 
 ### 🛠️ Proyectos Personales
 
