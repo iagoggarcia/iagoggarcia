@@ -8,8 +8,6 @@
 
 ### 🛠️ Proyectos Personales
 
-* 🚀 [**Impostor**](https://github.com/iagoggarcia/nocheDeRisas)
-
 ### 🛠️ Tecnologías y Herramientas
 
 #### Lenguajes y Desarrollo Web
